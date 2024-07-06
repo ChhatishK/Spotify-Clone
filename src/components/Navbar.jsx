@@ -23,8 +23,8 @@ const Navbar = () => {
         </div>
         <div className="flex items-center gap-4">
           
-          <p className="bg-gray-500 text-black w-24 h-12 rounded-full flex items-center justify-center cursor-pointer">
-            Chhatish Kumar
+          <p className="bg-purple-500 text-black w-9 h-9 rounded-full flex items-center justify-center cursor-pointer">
+            CK
           </p>
         </div>
       </div>
