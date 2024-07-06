@@ -9,9 +9,6 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
